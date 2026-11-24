@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuneCollector/Runesgalder/main/assets/brand/crest-dark-1024.png">
-    <img src="https://raw.githubusercontent.com/RuneCollector/Runesgalder/main/assets/brand/crest-1024.png" alt="Runesgalder: an Algiz stave between two four-feathered wings, with an ember diamond beneath the foot" width="150">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Runesgalder/Runesgalder/main/assets/brand/crest-dark-1024.png">
+    <img src="https://raw.githubusercontent.com/Runesgalder/Runesgalder/main/assets/brand/crest-1024.png" alt="Runesgalder: an Algiz stave between two four-feathered wings, with an ember diamond beneath the foot" width="150">
   </picture>
 </p>
 
@@ -14,8 +14,8 @@
 <p align="center"><strong>Pre-alpha.</strong> Not production ready. No packages have been published.</p>
 
 <p align="center">
-  <a href="https://github.com/RuneCollector/Runesgalder">Repository</a> ·
-  <a href="https://github.com/RuneCollector/Runesgalder/blob/main/docs/PROJECT_PLAN.md">Project plan</a> ·
-  <a href="https://github.com/RuneCollector/Runesgalder/blob/main/docs/brand.md">Brand</a> ·
-  <a href="https://github.com/RuneCollector/Runesgalder/blob/main/LICENSE">MIT licence</a>
+  <a href="https://github.com/Runesgalder/Runesgalder">Repository</a> ·
+  <a href="https://github.com/Runesgalder/Runesgalder/blob/main/docs/PROJECT_PLAN.md">Project plan</a> ·
+  <a href="https://github.com/Runesgalder/Runesgalder/blob/main/docs/brand.md">Brand</a> ·
+  <a href="https://github.com/Runesgalder/Runesgalder/blob/main/LICENSE">MIT licence</a>
 </p>
